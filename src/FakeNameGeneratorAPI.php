@@ -17,7 +17,7 @@ class FakeNameGeneratorAPI
      */
     public function getRandom()
     {
-        $this->CreateIdentity();
+       return  $this->CreateIdentity();
     }
 
     /**
