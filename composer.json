@@ -1,0 +1,16 @@
+{
+    "name": "rams007/fake-name-generator",
+    "description": "Simple wrapper  to work with fakenamegenerator.com",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RAMS",
+            "email": "sramsiks@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "php": ">=5.3.0"
+    }
+}
